@@ -23,4 +23,14 @@ O segundo conjunto mostra ângulos/lados diferentes do veículo. As fotos ficam 
 - Licença informada na página: CC0 / domínio público; uso comercial permitido, com download local em vez de hotlink.
 - Uso: detalhe ilustrativo na seção Sobre, com crédito visível. Não representa trabalho realizado pela Brilux67.
 
-As fotos reais fornecidas têm prioridade na galeria e no hero. Não foram obtidas fotos adicionais do Instagram.
+As fotos reais fornecidas são usadas na galeria e no processo. Não foram obtidas fotos adicionais do Instagram.
+
+## Fotografia de fundo do header / hero
+
+- Arquivo: img/hero-farol.webp, 2400 × 1349 px.
+- Autor: Grégory Costa / Pexels.
+- Título: Close-up of a Car's Headlight.
+- Página: https://www.pexels.com/photo/close-up-of-a-car-s-headlight-5733720/
+- Origem: https://images.pexels.com/photos/5733720/pexels-photo-5733720.jpeg?auto=compress&cs=tinysrgb&w=2400
+- Licença: https://www.pexels.com/license/ (uso gratuito, inclusive comercial).
+- Uso: fundo ilustrativo da abertura, sem associação a um serviço executado pela Brilux67. Crédito visível no hero. Apenas conversão para WebP; enquadramento responsivo e escurecimento feitos em CSS.

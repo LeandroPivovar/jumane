@@ -16,8 +16,12 @@ Site estático HTML/CSS/JS na estrutura original do repositório jumane. URL ant
 
 ## Revisão
 
-A atualização foi solicitada como prévia. Commit, push e publicação desta revisão não foram solicitados. Preservar a integração GitHub/Vercel existente quando houver autorização.
+Após a revisão, o usuário autorizou commit e push. Usar o repositório e a integração GitHub/Vercel existentes.
 
-O flyer aparece pequeno dentro do print. Não foram cadastrados planos, preços, garantias ou condições sem resolução suficiente para conferir. Não foram inventados depoimentos, prazos, áreas ou horários.
+O flyer fornecido informa quatro categorias de restauração: Popular a partir de R$ 300,00; SUV / Pickup / Médio a partir de R$ 350,00; Premium a partir de R$ 399,90; Premium Luxo a partir de R$ 444,90. A tabela e o FAQ reproduzem essas faixas. A lista de modelos e condições em texto pequeno não foi transcrita sem legibilidade suficiente; o enquadramento e o orçamento final são consultados pelo WhatsApp. Não foram inventados depoimentos, garantias, prazos, áreas ou horários.
 
 Fontes Saira e Barlow via Google Fonts. Ícones Phosphor locais.
+
+## Ajuste do header
+
+Topo inspirado na referência AROE fornecida pelo usuário: fotografia gratuita em tela cheia, navegação sobreposta, título e dois CTAs à esquerda. Foto de Grégory Costa / Pexels com licença e crédito em assets/credits.md. As fotos reais dos serviços permanecem na galeria e no processo. A revisão do topo e a tabela de valores foram incluídas no mesmo conjunto de alterações autorizado para commit e push.
